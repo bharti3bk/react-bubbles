@@ -5,7 +5,7 @@ const Login = () => {
   // when you have handled the token, navigate to the BubblePage route
   return (
     <>
-      <h1>Welcome to the Bubble App!</h1>
+      <h1>Welcome to the Bubble App!!</h1>
       <p>Build a login page here</p>
     </>
   );
